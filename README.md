@@ -1,5 +1,6 @@
 # Bayesian Blocks
-An R package for an algorithm for optimal piecewise segmentation of non-homogeneous Poisson process data
+This R package extends Jeff Scargle's Bayesian Blocks, an algorithm for optimal piecewise segmentation of non-homogeneous Poisson process data. The extensions allow for block segmentations to have non-constant intensities. Depending on the assumptions of the dataset, block segmentations can be allowed to take on power and exponential function shapes.
+
 ## Derivation Documentation
 See pages 62-84 titled "Generalized Block Shapes" in our draft paper
 
